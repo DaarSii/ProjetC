@@ -1,0 +1,7 @@
+Makefile dans "Mylib" : entrez en ligne de commande "make"
+Makefile dans le répertoire courant : entrez en ligne de commande "make treetest"
+
+Pour lancer le programme "treetest", entrez en ligne de commande "./treetest *racine* *nom_fichier*"
+
+                    A noter que *racine* est à remplacer par le chemin de la racine à laquelle vous voulez que le programme débute
+                    et *nom_fichier* par le nom du fichier recherché.
